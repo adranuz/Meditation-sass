@@ -1,0 +1,14 @@
+{
+  "name": "just-sass",
+  "version": "1.0.0",
+  "description": "Just sass landingpage",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass --watch assets/scss/styles.scss assets/css/styles.css"
+  },
+  "author": "@adranuz",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0"
+  }
+}
